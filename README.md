@@ -22,9 +22,5 @@ Here is another example, you can choose the atome you want to display by its ato
 <br />
 <br />
 There are other functions that allow you to get several chemical informations that you can find in the program and detailed in the docx file.<br/>
-<br />
-And we have the output from all the different sensors in real time and we can choose to open or close the valve  <br/>
-<a href="https://imgur.com/w1aTVJF"><img src="https://i.imgur.com/w1aTVJF.png" title="source: imgur.com" /></a>
-<br />
-<br />
+
 
